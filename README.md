@@ -4,10 +4,10 @@ Don't forget your tasks.
 Install Rainmeter First(If you don't have it yet): https://www.rainmeter.net/
 
 Do These first😊
-1. You need a notion database like a to do list[listview] with two properties 1. Name[Title] and 2. Checkbox[Checkbox]
+1. You need a notion to do list[listview] with two properties 1. Name[Title] and 2. Checkbox[Checkbox]
    <img width="1614" height="1063" alt="image" src="https://github.com/user-attachments/assets/6e347c4d-1fcd-4189-8487-0e4d7e7cb990" />
 
-2. Copy the database id i.e., the text between 'https://www.notion.so/' and '?v='
+2. Copy the database id i.e., the text between 'www.notion.so/' and '?v='
    <img width="830" height="404" alt="image" src="https://github.com/user-attachments/assets/b5b773c2-8a5f-4d1c-8ce3-6f73cdfb965e" />
 
 3. Create a new internal integration for the database in https://www.notion.so/profile/integrations
