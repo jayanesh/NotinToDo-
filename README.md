@@ -1,4 +1,4 @@
-# NotinToDo-
+# NotinToDo
 Don't forget your tasks.
 
 Install Rainmeter First(If you don't have it yet): https://www.rainmeter.net/
