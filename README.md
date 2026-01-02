@@ -11,8 +11,9 @@ Do These first😊
    <img width="830" height="404" alt="image" src="https://github.com/user-attachments/assets/b5b773c2-8a5f-4d1c-8ce3-6f73cdfb965e" />
 
 3. Create a new internal integration for the database in https://www.notion.so/profile/integrations
-   1. <img width="1622" height="891" alt="image" src="https://github.com/user-attachments/assets/9a6b1106-40c8-43d4-b844-d38181eca016" />
-   Click Save!
+   1. Click Save!
+      <img width="1622" height="891" alt="image" src="https://github.com/user-attachments/assets/9a6b1106-40c8-43d4-b844-d38181eca016" />
+   
 
    2. Go to the edit access page and select your database/list
       <img width="960" height="476" alt="image" src="https://github.com/user-attachments/assets/8dccec74-afab-441f-ae12-2e2777e5e82a" />
